@@ -1,0 +1,117 @@
+﻿  corner.cpp
+  icVector.cpp
+  learnply.cpp
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(97,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(76,8): warning C4101: 'this_file': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(294,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(619,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(929,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(973,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(990,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(999,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1207,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1241,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1264,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1339,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1378,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1547,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1699,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1706,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1708,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1771,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1772,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1805,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1859,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1959,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\learnply.cpp(1992,13): warning C4018: '<': signed/unsigned mismatch
+  myPoly.cpp
+  ply.cpp
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(175,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(214,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(217,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(221,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(207,15): warning C4101: 'elem': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(205,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(350,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(352,16): warning C4101: 'prop': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(476,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(672,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(707,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(747,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(750,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(754,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1080,17): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1206,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1321,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1358,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1360,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1528,8): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1427,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1562,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1714,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1714,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(1926,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2035,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2036,19): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2040,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2041,19): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2117,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2118,19): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2123,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2124,19): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2242,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2270,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2339,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2345,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2350,18): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2328,7): warning C4101: 'count_type': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2327,7): warning C4101: 'prop_type': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2417,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2531,16): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2557,38): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2597,38): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2776,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(2778,16): warning C4101: 'prop': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(3061,7): warning C4101: 'count': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(3060,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\ply.cpp(3270,9): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  tmatrix.cpp
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\tmatrix.cpp(165,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\tmatrix.cpp(166,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\tmatrix.cpp(167,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\tmatrix.cpp(168,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  trackball.cpp
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(109,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(110,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(111,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(124,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(125,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(126,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(175,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(187,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(233,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(354,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(406,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(407,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(418,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(424,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(437,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(438,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(450,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(452,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(455,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(478,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(536,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(537,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(538,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(541,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(542,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(543,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(546,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(547,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\trackball.cpp(548,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+corner.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> C:\Users\Avery\Documents\Code\CS554\learnply - Copy\project1\learnply\.\Debug\learnply.exe
